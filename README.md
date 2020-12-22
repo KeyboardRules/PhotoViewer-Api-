@@ -1,2 +1,2 @@
-#Win 98 API photoviewer
-write with c++
+# Win 98 API photoviewer
+Write with c++
